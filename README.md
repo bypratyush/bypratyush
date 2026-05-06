@@ -29,9 +29,9 @@ I'm a **CS undergrad** and **Product Designer intern** who cares deeply about th
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bypratyush&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0F172A&text_color=374151&icon_color=6366f1&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bypratyush&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=FFFFFF&text_color=374151&icon_color=6366f1&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypratyush&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0F172A&text_color=374151&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypratyush&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=FFFFFF&text_color=374151&langs_count=8"/>
 
 </div>
 
