@@ -20,10 +20,10 @@
 
 I'm a **CS undergrad** and **Product Designer intern** who cares deeply about the space where UX research meets sleek interfaces and solid engineering. I build things that are both beautiful *and* functional — because the best products don't ask you to choose.
 
-- 🎨 Currently interning as a **Product Designer**
-- 🧠 Passionate about **problem-first design** — research before pixels
+- 🎨 Currently interning as a **Product Designer** at [HandaUncle](https://chat.handauncle.com/)
+- 🧠 Passionate about **problem-first design** - research before implementation
 - 🛠️ Love working across the full stack: **Figma → Code → Ship**
-- 🚀 Goal: **Product Design & Development** — owning end-to-end experiences
+- 🚀 Goal: **Product Design & Development** - owning end-to-end experiences
 
 ---
 
@@ -31,20 +31,16 @@ I'm a **CS undergrad** and **Product Designer intern** who cares deeply about th
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bypratyush&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bypratyush&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bypratyush&theme=tokyonight)
-
-</div>
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bypratyush&theme=tokyonight)
+<table style="border: none; cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: none;" align="center">
+      <img src="https://streak-stats.demolab.com?user=bypratyush&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td style="border: none;" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bypratyush&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
