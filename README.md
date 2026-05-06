@@ -1,14 +1,16 @@
 <div align="center">
 
+# Hi, I'm Pratyush 👋
+
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=32&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Pratyush+%F0%9F%91%8B;Product+Designer+%2B+Developer;Building+at+the+intersection+of+design+%26+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Product+Designer+%2B+Developer;Building+at+the+intersection+of+design+%26+code;Figma+%E2%86%92+Code+%E2%86%92+Ship)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Badges -->
-![](https://img.shields.io/badge/Product_Designer-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/CS_Undergraduate-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=graduation-cap&logoColor=white)
-![](https://img.shields.io/badge/Design_%2B_Dev-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=lightning&logoColor=white)
+![](https://img.shields.io/badge/Product_Designer-555555?style=flat-square&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/CS_Undergraduate-555555?style=flat-square&logo=google-scholar&logoColor=white)
+![](https://img.shields.io/badge/Design_%2B_Dev-555555?style=flat-square&logo=lightning&logoColor=white)
 
 </div>
 
@@ -18,7 +20,7 @@
 
 I'm a **CS undergrad** and **Product Designer intern** who cares deeply about the space where UX research meets sleek interfaces and solid engineering. I build things that are both beautiful *and* functional — because the best products don't ask you to choose.
 
-- 🎨 Currently interning as a **Product Designer** at HandaUncle
+- 🎨 Currently interning as a **Product Designer**
 - 🧠 Passionate about **problem-first design** — research before pixels
 - 🛠️ Love working across the full stack: **Figma → Code → Ship**
 - 🚀 Goal: **Product Design & Development** — owning end-to-end experiences
@@ -37,7 +39,7 @@ I'm a **CS undergrad** and **Product Designer intern** who cares deeply about th
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bypratyush&theme=default&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=6366F1&fire=6366F1&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=6366F1&sideLabels=374151&dates=94A3B8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bypratyush&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -78,8 +80,8 @@ I'm a **CS undergrad** and **Product Designer intern** who cares deeply about th
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyushmohanty01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=framer&logoColor=white)](https://pratyush-mohanty.framer.website)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bypratyush@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0055FF?style=flat-square&logo=framer&logoColor=white)](https://pratyush-mohanty.framer.website)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pratyushm72@gmail.com)
 
 </div>
 
