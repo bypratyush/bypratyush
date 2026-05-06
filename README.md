@@ -31,15 +31,13 @@ I'm a **CS undergrad** and **Product Designer intern** who cares deeply about th
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bypratyush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypratyush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bypratyush&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bypratyush&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bypratyush&theme=tokyonight)
 
 </div>
 
