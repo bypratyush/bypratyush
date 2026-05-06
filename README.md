@@ -33,6 +33,13 @@ I'm a **CS undergrad** and **Product Designer intern** who cares deeply about th
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bypratyush&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bypratyush&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bypratyush&theme=tokyonight)
+
+</div>
+
 </div>
 
 <div align="center">
