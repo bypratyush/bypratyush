@@ -18,7 +18,7 @@
 
 I'm a **CS undergrad** and **Product Designer intern** who cares deeply about the space where UX research meets sleek interfaces and solid engineering. I build things that are both beautiful *and* functional — because the best products don't ask you to choose.
 
-- 🎨 Currently interning as a **Product Designer**
+- 🎨 Currently interning as a **Product Designer** at HandaUncle
 - 🧠 Passionate about **problem-first design** — research before pixels
 - 🛠️ Love working across the full stack: **Figma → Code → Ship**
 - 🚀 Goal: **Product Design & Development** — owning end-to-end experiences
@@ -29,9 +29,9 @@ I'm a **CS undergrad** and **Product Designer intern** who cares deeply about th
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bypratyush&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=FFFFFF&text_color=374151&icon_color=6366f1&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bypratyush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypratyush&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=FFFFFF&text_color=374151&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypratyush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
